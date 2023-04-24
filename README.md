@@ -1,1 +1,1 @@
-# BSA-Onside-Kick
+Here is the code for my onside kick analysis article which I wrote for Bruin Sports Analytics during Winter Quarter of the 2023 School Year. The full article can be accessed here: https://www.bruinsportsanalytics.com/post/onside-kicks.
